@@ -1,0 +1,31 @@
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\bin\Debug\ПО Ф.exe.config
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\bin\Debug\ПО Ф.exe
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\bin\Debug\ПО Ф.pdb
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csproj.AssemblyReference.cache
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csproj.SuggestedBindingRedirects.cache
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО_Ф.Form1.resources
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО_Ф.Properties.Resources.resources
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csproj.GenerateResource.cache
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csproj.CoreCompileInputs.cache
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.exe
+D:\Лабораторки\Практика 3\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.pdb
+E:\Практика\Щербаков\ПО Ф\ПО Ф\bin\Debug\ПО Ф.exe.config
+E:\Практика\Щербаков\ПО Ф\ПО Ф\bin\Debug\ПО Ф.exe
+E:\Практика\Щербаков\ПО Ф\ПО Ф\bin\Debug\ПО Ф.pdb
+E:\Практика\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csprojAssemblyReference.cache
+E:\Практика\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО_Ф.Form1.resources
+E:\Практика\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО_Ф.Properties.Resources.resources
+E:\Практика\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csproj.GenerateResource.cache
+E:\Практика\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csproj.CoreCompileInputs.cache
+E:\Практика\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.exe
+E:\Практика\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.pdb
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\bin\Debug\ПО Ф.exe.config
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\bin\Debug\ПО Ф.exe
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\bin\Debug\ПО Ф.pdb
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csprojAssemblyReference.cache
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО_Ф.Form1.resources
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО_Ф.Properties.Resources.resources
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csproj.GenerateResource.cache
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.csproj.CoreCompileInputs.cache
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.exe
+E:\Практика22\Щербаков\ПО Ф\ПО Ф\obj\Debug\ПО Ф.pdb
